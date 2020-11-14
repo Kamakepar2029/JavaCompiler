@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/runner/work/JavaCompiler/JavaCompiler/app/build/intermediates/res/merged/release/layout_conf.xml.flat",
+        "source": "/home/runner/work/JavaCompiler/JavaCompiler/app/src/main/res/layout/conf.xml"
+    },
+    {
+        "merged": "/home/runner/work/JavaCompiler/JavaCompiler/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_https_white.png.flat",
+        "source": "/home/runner/work/JavaCompiler/JavaCompiler/app/src/main/res/drawable-xhdpi/ic_https_white.png"
+    },
+    {
+        "merged": "/home/runner/work/JavaCompiler/JavaCompiler/app/build/intermediates/res/merged/release/layout_edit.xml.flat",
+        "source": "/home/runner/work/JavaCompiler/JavaCompiler/app/src/main/res/layout/edit.xml"
+    },
+    {
+        "merged": "/home/runner/work/JavaCompiler/JavaCompiler/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_brightness_high_white.png.flat",
+        "source": "/home/runner/work/JavaCompiler/JavaCompiler/app/src/main/res/drawable-xhdpi/ic_brightness_high_white.png"
+    },
+    {
+        "merged": "/home/runner/work/JavaCompiler/JavaCompiler/app/build/intermediates/res/merged/release/drawable-xhdpi_app_icon.png.flat",
+        "source": "/home/runner/work/JavaCompiler/JavaCompiler/app/src/main/res/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/runner/work/JavaCompiler/JavaCompiler/app/build/intermediates/res/merged/release/layout_main.xml.flat",
+        "source": "/home/runner/work/JavaCompiler/JavaCompiler/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/runner/work/JavaCompiler/JavaCompiler/app/build/intermediates/res/merged/release/drawable-xhdpi_default_image.png.flat",
+        "source": "/home/runner/work/JavaCompiler/JavaCompiler/app/src/main/res/drawable-xhdpi/default_image.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Nov 14 10:16:32 UTC 2020
+0.baseType=DIRECTORY
+0.base=/home/runner/work/JavaCompiler/JavaCompiler/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1

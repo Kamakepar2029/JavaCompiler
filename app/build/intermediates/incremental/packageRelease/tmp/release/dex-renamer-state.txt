@@ -1,0 +1,4 @@
+#Sat Nov 14 10:16:32 UTC 2020
+base.0=/home/runner/work/JavaCompiler/JavaCompiler/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
