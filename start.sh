@@ -6,9 +6,8 @@ cat /home/runner/work/JavaCompiler/JavaCompiler/app/build/reports/lint-results.h
 cd /home/runner/work/JavaCompiler/JavaCompiler
 ls
 ls app
-git add *
+git add app/build
 git add .gradle
-git add app/build/outputs/apk/debug/
 git config --global user.email "user@xaker.tk"
 git config --global user.name "USER"
 echo 'No random availible'
